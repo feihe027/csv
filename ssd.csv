@@ -1,0 +1,3 @@
+"abc,dd","dd""a""d,ee"
+"ab""c,d""d",,武汉人,"1、打开AS SSD Benchmarks软件，选择SSD磁盘、测试数据大小：1G，确认AHCI功能已开启和4K已对齐
+2、勾选Seq、4K、4K-64Thrd、ACC.time完成，点击“”Start”进行测试完成并截图保存；"T-SS-SS-A16,选择CrystalDiskMark软件打开 ，进入主界面，对测试相关参数设置（测试次数：5、测试数据大小：1G、选择被测试磁盘），设置完成后点击“ALL”，进行测试完成并截图保存；
